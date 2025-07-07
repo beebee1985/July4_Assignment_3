@@ -1,5 +1,16 @@
 # July4_Assignment_3
 
+## 🗂 Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Known Bugs](#known-bugs)
+- [Contributors](#contributors)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshot](#screenshot)
+- [License](#license)
+
 ## 📃 Description
 A pretend open-source AI-based task planner powered by Lucy, a local assistant. This project demonstrates GitHub documentation and markdown skills.
 
@@ -29,15 +40,6 @@ cd July4_Assignment_3
 
 ## ▶️ Usage
 Open `index.html` in your browser.
-
-## 🗂 Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Known Bugs](#known-bugs)
-- [Contributors](#contributors)
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## 📸 Screenshot
 ![App Screenshot](assets/images/screenshot.png)
