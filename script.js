@@ -1,0 +1,1 @@
+alert('Hi from Lucy! Your AI task assistant is ready.');

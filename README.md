@@ -4,7 +4,7 @@
 A pretend open-source AI-based task planner powered by Lucy, a local assistant. This project demonstrates GitHub documentation and markdown skills.
 
 ## ✨ Features
-- Smart task suggestions (offline AI - pretend)
+- Lucy
 - Easy-to-use interface
 - Organized GitHub workflow with wiki
 
